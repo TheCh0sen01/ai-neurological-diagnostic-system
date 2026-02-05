@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+
+# Large files
+*.h5
+*.pt
+
+# Optional: ignore models if repo becomes too large
+# models/
