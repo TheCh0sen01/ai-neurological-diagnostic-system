@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Neurological Diagnostic System
 
 A clinical decision-support system for Alzheimer’s Disease detection using Deep Learning, Transfer Learning, Ensemble Modeling, and Explainable AI.
@@ -48,3 +49,7 @@ This tool is designed for academic and decision-support purposes only and is NOT
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# ai-neurological-diagnostic-system
+A clinical decision-support system for Alzheimer’s Disease detection using Deep Learning, Transfer Learning, Ensemble Modeling, and Explainable AI.
+>>>>>>> 37673862edab9beed0ad2809ab1cd3cc918b4c0f
